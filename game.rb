@@ -1,4 +1,7 @@
 require_relative 'bunny.rb'
+# require_relative 'Players_Class.rb'
+require 'colorize'
+
 # Create players as a hash
 @players = { P1: 3, P2: 3}
 
