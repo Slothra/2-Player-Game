@@ -3,4 +3,4 @@
 
 Gameplay in game.rb
 
-Video by Slothra
+'Video' by Slothra
